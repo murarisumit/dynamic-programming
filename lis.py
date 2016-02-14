@@ -1,6 +1,3 @@
-import sys
-
-
 def lis(input):
     alis=[1] * len(input)
     for i in range(0, len(input)):
